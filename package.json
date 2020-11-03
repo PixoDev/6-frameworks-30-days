@@ -1,0 +1,11 @@
+{
+  "name": "6-frameworks-30-days-challenge",
+  "version": "1.0.0",
+  "description": "This repo contains 6 different frameworks that I tried over 30 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pixo",
+  "license": "ISC"
+}
